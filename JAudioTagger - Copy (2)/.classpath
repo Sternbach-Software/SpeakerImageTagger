@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.2.6-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.2.6-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.2.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/JAudioTagger_jar/GeneralTagger.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/JAudioTagger_jar/ReingoldTagger.jar"/>
+	<classpathentry kind="output" path="out/production/JAudioTagger"/>
+</classpath>

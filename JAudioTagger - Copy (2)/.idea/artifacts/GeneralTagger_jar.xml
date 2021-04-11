@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeneralTagger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeneralTagger_jar</output-path>
+    <root id="archive" name="JAudioTagger.jar">
+      <element id="module-output" name="JAudioTagger" />
+      <element id="library" level="project" name="JAudioTagger" />
+    </root>
+  </artifact>
+</component>

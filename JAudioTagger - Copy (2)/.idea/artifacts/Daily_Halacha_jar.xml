@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Daily Halacha:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Daily_Halacha_jar</output-path>
+    <root id="archive" name="Daily Halacha_jar.jar">
+      <element id="module-output" name="JAudioTagger" />
+      <element id="artifact" artifact-name="JAudioTagger" />
+    </root>
+  </artifact>
+</component>
